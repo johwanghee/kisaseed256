@@ -30,10 +30,6 @@ public class SeedTest {
 }
 ```
 
-
-
-KisaSeed256.Decrypt(data, KEY)
- 
 참고
 - SEED: https://seed.kisa.or.kr/kisa/algorithm/EgovSeedInfo.do
 - 원본소스: https://hihoyeho.tistory.com/entry/SEED256-for-JAVA
